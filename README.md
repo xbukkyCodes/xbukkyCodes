@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:8b0000&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Hi there, I'm **bukky** 👋
+# Hi, I'm **bukky** 👋
 
 <p>
-  <em>Software Engineer · Building robust systems and scalable APIs</em>
+  <em>Software Engineer &nbsp;·&nbsp; Building robust systems and scalable APIs</em>
 </p>
 
 <a href="https://github.com/xbukkyCodes">
-  <img src="https://img.shields.io/badge/GitHub-xbukkyCodes-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-xbukkyCodes-cc0000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=xbukkyCodes&style=flat-square&color=4A90D9&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=xbukkyCodes&style=flat-square&color=cc0000&label=Profile+Views"/>
 
 </div>
 
@@ -34,15 +34,15 @@ I write clean, purposeful code — from low-level systems work in **C++** to sca
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-cc0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-cc0000?style=for-the-badge&logo=node.js&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-8b0000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-cc0000?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 </div>
 
@@ -52,32 +52,32 @@ I write clean, purposeful code — from low-level systems work in **C++** to sca
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=xbukkyCodes&show_icons=true&theme=default&hide_border=true&title_color=2c5364&icon_color=4A90D9&text_color=333333&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbukkyCodes&layout=compact&hide_border=true&title_color=2c5364&text_color=333333&bg_color=ffffff&langs_count=5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xbukkyCodes&show_icons=true&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=cccccc&bg_color=0d0d0d&rank_icon=github&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbukkyCodes&layout=compact&hide_border=true&title_color=cc0000&text_color=cccccc&bg_color=0d0d0d&langs_count=5"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=xbukkyCodes&theme=default&hide_border=true&ring=2c5364&fire=4A90D9&currStreakLabel=2c5364&sideLabels=333333" height="150"/>
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xbukkyCodes&theme=minimal&hide_border=true&color=4A90D9&line=2c5364&point=4A90D9&area=true&area_color=4A90D9"/>
+<img src="https://streak-stats.demolab.com?user=xbukkyCodes&hide_border=true&background=0d0d0d&ring=cc0000&fire=ff3333&currStreakLabel=cc0000&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=cc0000" height="150"/>
 
 </div>
 
 ---
 
+## Contribution Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xbukkyCodes&bg_color=0d0d0d&color=cc0000&line=8b0000&point=ff3333&area=true&area_color=8b0000&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a0000,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
