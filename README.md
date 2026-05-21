@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Java+%E2%80%94+Backend+%26+Systems;Python+%E2%80%94+Scalable+APIs;C%2B%2B+%E2%80%94+Low-level+Engineering;Node.js+%E2%80%94+Server-side+JS;C%23+%E2%80%94+.NET+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Java+%E2%80%94+Backend+%26+Systems;Python+%E2%80%94+Scalable+APIs;C%2B%2B+%E2%80%94+Low-level+Engineering;Node.js+%E2%80%94+Server-side+JS;C%23+%E2%80%94+.NET+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -65,7 +65,7 @@ Status      : Building · Always learning
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xbukkyCodes&bg_color=0d0d0d&color=cc0000&line=8b0000&point=ff4444&area=true&area_color=3a0000&hide_border=true&radius=6" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xbukkyCodes&bg_color=0d0d0d&color=ffffff&line=cc0000&point=ffffff&area=true&area_color=3a0000&hide_border=true&radius=6" width="95%"/>
 </div>
 
 ---
